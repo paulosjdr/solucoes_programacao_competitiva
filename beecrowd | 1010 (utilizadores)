@@ -8,6 +8,10 @@ Operador de Atribuição:
 Operador de Referência:
 & (endereço de)
 
+Operadores Bitwise:
+>> (Shift right)
+<< (Shift left)
+
 Especificadores de Tipo:
 int (Especifica um tipo de dado inteiro)
 double (Especifica tipos de dados de ponto flutuante - números de ponto flutuante de precisão dupla)
@@ -23,4 +27,8 @@ scanf (Usada para ler dados formatados da entrada padrão)
 
 Instrução de Controle de Fluxo:
 return (Permite que uma função retorne um valor ao local onde foi chamada)
+
+Objetos de Fluxo:
+cin (Usado para receber dados do usuário 'teclado' ou de outras fontes de entrada)
+cout (Usado para exibir informações ou dados no console)
 
