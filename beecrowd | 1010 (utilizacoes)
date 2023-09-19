@@ -16,3 +16,8 @@ Especificadores de Formato:
 %d (Formata um número inteiro como decimal)
 %lf (Usado para manipular variáveis do tipo 'double')
 
+Funções:
+main (Nome da função principal, onde a execução do código começa)
+printf (Usada para imprimir dados formatados na saída padrão)
+scanf (Usada para ler dados formatados da entrada padrão)
+
