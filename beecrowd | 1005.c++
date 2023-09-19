@@ -1,5 +1,5 @@
-#include <iostream>
-#include <iomanip>
+#include <iostream>  // Inclui a biblioteca de entrada/saída para entrada e saída de dados padrão.
+#include <iomanip>   // Inclui a biblioteca para manipulação de formatação de saída.
 
 using namespace std;
 
