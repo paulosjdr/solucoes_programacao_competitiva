@@ -1,0 +1,32 @@
+Operadores de Comparação:
+== (igual a)
+< (menos que)
+> (maior que)
+
+Operador Lógico:
+&& (AND lógico)
+
+Especificador de Tipo:
+double (Especifica tipos de dados de ponto flutuante - números de ponto flutuante de precisão dupla)
+
+Especificadores de Formato:
+%d (Formata um número inteiro como decimal)
+%lf (Usado para manipular variáveis do tipo 'double')
+
+Funções:
+main (Nome da função principal, onde a execução do código começa)
+printf (Usada para imprimir dados formatados na saída padrão)
+scanf (Usada para ler dados formatados da entrada padrão)
+
+Instrução de Controle de Fluxo:
+return (Permite que uma função retorne um valor ao local onde foi chamada)
+
+Objetos de Fluxo (C++):
+cin (Usado para receber dados do usuário 'teclado' ou de outras fontes de entrada)
+cout (Usado para exibir informações ou dados no console)
+
+Caracter de Escape (C):
+\n (Nova linha. Move o cursor para o início da próxima linha)
+
+Manipulador de Fluxo (C++):
+endl (Usado para inserir uma nova linha, equivalente a '\n')
