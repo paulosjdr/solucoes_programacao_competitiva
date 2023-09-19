@@ -28,13 +28,13 @@ scanf (Usada para ler dados formatados da entrada padrão)
 Instrução de Controle de Fluxo:
 return (Permite que uma função retorne um valor ao local onde foi chamada)
 
-Objetos de Fluxo:
+Objetos de Fluxo (C++):
 cin (Usado para receber dados do usuário 'teclado' ou de outras fontes de entrada)
 cout (Usado para exibir informações ou dados no console)
 
-Caracter de Escape:
+Caracter de Escape (C):
 \n (Nova linha. Move o cursor para o início da próxima linha)
 
-Manipulador de Fluxo:
+Manipulador de Fluxo (C++):
 endl (Usado para inserir uma nova linha, equivalente a '\n')
 
