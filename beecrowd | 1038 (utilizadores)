@@ -1,0 +1,28 @@
+Operadores Aritméticos:
+* (multiplicação)
+
+Operador de Atribuição:
+= (atribuição simples)
+
+Operador de Referência:
+& (endereço de)
+
+Especificadores de Tipo:
+int (Especifica um tipo de dado inteiro)
+double (Especifica tipos de dados de ponto flutuante - números de ponto flutuante de precisão dupla)
+
+Especificadores de Formato:
+%d (Formata um número inteiro como decimal)
+%lf (Usado para manipular variáveis do tipo 'double')
+
+Funções:
+main (Nome da função principal, onde a execução do código começa)
+printf (Usada para imprimir dados formatados na saída padrão)
+scanf (Usada para ler dados formatados da entrada padrão)
+
+Instrução de Controle de Fluxo:
+switch (Usada para executar diferentes ações com base no valor de uma expressão)
+case (Representa um caso específico dentro de uma intrução 'switch')
+break (Sai de um loop ou de um switch antecipadamente, interrompendo a execução)
+return (Permite que uma função retorne um valor ao local onde foi chamada)
+
