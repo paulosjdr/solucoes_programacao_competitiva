@@ -1,0 +1,19 @@
+Operadores Aritméticos:
++ (adição)
+* (multiplicação)
+% (módulo)
+
+Operador de Atribuição:
+= (atribuição simples)
+
+Operador de Referência:
+& (endereço de)
+
+Especificadores de Tipo:
+int (Especifica um tipo de dado inteiro)
+double (Especifica tipos de dados de ponto flutuante - números de ponto flutuante de precisão dupla)
+
+Especificadores de Formato:
+%d (Formata um número inteiro como decimal)
+%lf (Usado para manipular variáveis do tipo 'double')
+
