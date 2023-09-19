@@ -6,11 +6,13 @@ Operadores de Comparação:
 Operador Lógico:
 && (AND lógico)
 
+Operador de Referência:
+& (endereço de)
+
 Especificador de Tipo:
 double (Especifica tipos de dados de ponto flutuante - números de ponto flutuante de precisão dupla)
 
 Especificadores de Formato:
-%d (Formata um número inteiro como decimal)
 %lf (Usado para manipular variáveis do tipo 'double')
 
 Funções:
