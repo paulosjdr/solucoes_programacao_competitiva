@@ -1,7 +1,7 @@
 #include <iostream>  // Inclui a biblioteca de entrada/saída para entrada e saída de dados padrão.
 #include <iomanip>   // Inclui a biblioteca para manipulação de formatação de saída.
 
-using namespace std;
+using namespace std; // Usa o namespace padrão, onde estão definidas as funcionalidades padrão de C++.
 
 int main() {
     // Declaração de variáveis
