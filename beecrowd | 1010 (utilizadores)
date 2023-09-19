@@ -32,7 +32,7 @@ Objetos de Fluxo (C++):
 cin (Usado para receber dados do usuário 'teclado' ou de outras fontes de entrada)
 cout (Usado para exibir informações ou dados no console)
 
-Caracter de Escape (C):
+Caracter de Escape:
 \n (Nova linha. Move o cursor para o início da próxima linha)
 
 Manipulador de Fluxo (C++):
