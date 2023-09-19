@@ -3,7 +3,7 @@
 
 using namespace std; // Usa o namespace padrão, onde estão definidas as funcionalidades padrão de C++.
 
-int main() {
+int main() { // Declaração da função principal "main" que retorna um inteiro (int).
     // Declaração de variáveis
     double notaA, notaB, media;
     double pesoA = 3.5, pesoB = 7.5;
