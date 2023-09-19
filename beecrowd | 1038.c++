@@ -31,7 +31,7 @@ int main() { //Declarção da FUNÇÃO principal "main"
     }
 
     // EXIBIÇÃO do total.
-    cout << "Total: R$ " << setprecision(2) << fixed << total; //IMPRIME o valor total com duas casas decimais.
+    cout << "Total: R$ " << setprecision(2) << fixed << total <<endl; //IMPRIME o valor total com duas casas decimais com espaçamento de linha (endl).
 
     return 0; // RETORNA zero para indicar que o programa foi executado com sucesso.
 }
