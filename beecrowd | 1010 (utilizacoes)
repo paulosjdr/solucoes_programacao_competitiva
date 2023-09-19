@@ -21,3 +21,6 @@ main (Nome da função principal, onde a execução do código começa)
 printf (Usada para imprimir dados formatados na saída padrão)
 scanf (Usada para ler dados formatados da entrada padrão)
 
+Instrução de Controle de Fluxo:
+return (Permite que uma função retorne um valor ao local onde foi chamada)
+
