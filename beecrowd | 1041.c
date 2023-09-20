@@ -1,6 +1,5 @@
-#include <iostream> // Inclui a biblioteca de entrada e saída em C++.
-
-using namespace std; // Usa o namespace std para evitar a necessidade de escrever std:: antes de funções como cout e cin.
+#include <stdio.h> // Incluem as bibliotecas necessárias para funções de entrada/saída e alocação de memória.
+#include <stdlib.h> // Incluem as bibliotecas necessárias para funções de entrada/saída e alocação de memória.
 
 int main() { // Função principal do programa.
 
