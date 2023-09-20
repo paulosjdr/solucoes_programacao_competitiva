@@ -1,6 +1,5 @@
-#include <iostream> // Inclui a biblioteca de entrada/saída para entrada e saída de dados padrão.
-
-using namespace std; // Usa o namespace padrão, onde estão definidas as funcionalidades padrão de C++.
+#include <stdio.h> // Incluem as bibliotecas necessárias para funções de entrada/saída e alocação de memória.
+#include <stdlib.h> // Incluem as bibliotecas necessárias para funções de entrada/saída e alocação de memória.
 
 int main() { //Declarção da FUNÇÃO principal "main"
 
