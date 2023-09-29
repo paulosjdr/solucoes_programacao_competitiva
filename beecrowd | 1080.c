@@ -1,6 +1,4 @@
-#include <bits/stdc++.h>
-
-using namespace std;
+#include <stdio.h>
 
 int main()
 {
@@ -15,8 +13,8 @@ int main()
             pos = i;
         }
     }
-    printf("\n %d", maior);
-    printf("\n %d", pos);
+    printf("%d\n", maior);
+    printf("%d\n", pos);
 
     return 0;
 }
